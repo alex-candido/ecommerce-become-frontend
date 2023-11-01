@@ -11,8 +11,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "Alex Cândido <alex.candido.tec@gmail.com>",
-  "license": "ISC",
   "dependencies": {
     "next": "14.0.1",
     "react": "^18",
@@ -38,6 +36,5 @@
     "prettier": "^3.0.3",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
-  },
-  "repository": "git@github.com:alex-candido/ecommerce-become-frontend.git"
+  }
 }
